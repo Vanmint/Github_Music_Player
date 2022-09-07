@@ -64,7 +64,7 @@ const app = {
         {
             name: "Hoa Nở Không Màu ",
             singer: "Hoài Lâm",
-            path: "./acssets/music/2.mp3",
+            path: "./acssets/music/7.mp3",
             image: "https://i.scdn.co/image/ab67616d0000b27321c4f0bc5886b0017cafa040"
         }
     ],
